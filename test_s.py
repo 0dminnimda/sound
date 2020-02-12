@@ -19,6 +19,8 @@ w = "Apprehensive_at_Best.wav"
 
 n = w
 
+#aaa = pydub.AudioSegment.from_mp3(m)
+
 #signal, sampling_rate = open_audio(n)
 #wave_obj = sa.WaveObject.from_wave_file
 

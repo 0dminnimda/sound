@@ -13,10 +13,10 @@ def on_press(key):
 def on_release(key):
     pass
 
-n = "Apprehensive_at_Best.wav"
+n = "Apprehensive_at_Best.mp3"
 
-a = np.array(read(n)[1])
-print(a, a.shape)
+#a = np.array(read(n)[1])
+#print(a, a.shape)
 
 pygame.init()
 
